@@ -6,3 +6,4 @@ To provide teams, game time, date, and statistics for Major League Baseball game
 ## Providing teams
 Being able to provide a team and who they play against with using a search bar. Allowing to show teams record of wins and losses to provide more details about the teams.
 
+Test
