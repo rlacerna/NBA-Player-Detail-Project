@@ -31,7 +31,7 @@ NBA Player Details is a web application designed for basketball enthusiasts to q
 
 * bash
 * Copy code
-* git clone [repository URL]
+* git clone https://github.com/rlacerna/NBA-Player-Detail-Project.git
 * Navigate to the Project Directory: Change to the project directory.
 
 ## Usage
